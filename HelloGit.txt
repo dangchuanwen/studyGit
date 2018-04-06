@@ -1,1 +1,2 @@
-HelloGit!
+HelloGit! 
+You must study Hard!
